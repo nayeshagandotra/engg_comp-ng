@@ -5,12 +5,19 @@
             "label": "C/C++: clang++ build active file",
             "command": "/usr/bin/clang++",
             "args": [
-                "-fcolor-diagnostics",
-                "-fansi-escape-codes",
+                "-std=c++17",
+                "-fdiagnostics-color=always",
+                "-Wall",
                 "-g",
-                "${file}",
+                "-I${workspaceFolder}/include",
+                "-L${workspaceFolder}/glfw-3.4.bin.MACOS/lib-x86_64",
+                "${workspaceFolder}/glad/src/glad.c",
+                "${workspaceFolder}/PS03-nayeshag/*.cpp",
+                "${workspaceFolder}/glfw-3.4.bin.MACOS/lib-x86_64/libglfw.3.dylib",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${workspaceFolder}/main.exe",
+                "-framework",
+                "OpenGL"
             ],
             "options": {
                 "cwd": "${fileDirname}"
