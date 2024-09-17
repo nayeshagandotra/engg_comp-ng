@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libfssimplewindow.a CMakeFiles/fssimplewindow.dir/fssimplewindowcpp.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libfssimplewindow.a

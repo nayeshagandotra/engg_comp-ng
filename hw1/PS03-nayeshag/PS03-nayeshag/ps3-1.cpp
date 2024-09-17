@@ -28,7 +28,7 @@ int main() {
         std::cout << "Enter Altitude and Temperature:" << std::endl;
         std::cin >> u_alt >> u_temp;
         // check if inputs are valid 
-        if (u_alt <0 | u_alt >10000 | u_temp<-20 | u_temp > 40) {
+        if (u_alt <0 || u_alt >10000 || u_temp<-20 || u_temp > 40) {
             std::cout << "Invalid altitude or temperature, please enter values in altitude range {0, 10,000} and temp range {-20, 40}" << std::endl;
         }
         else {

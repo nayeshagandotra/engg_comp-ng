@@ -1,0 +1,4 @@
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/build/CMakeFiles/fssimplewindow.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/build/CMakeFiles/ps3-2.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/build/CMakeFiles/edit_cache.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/build/CMakeFiles/rebuild_cache.dir
