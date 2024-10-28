@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libequation.a CMakeFiles/equation.dir/equation.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libequation.a

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libysnullsystemfont.a CMakeFiles/ysnullsystemfont.dir/null/ysnullsystemfont.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libysnullsystemfont.a

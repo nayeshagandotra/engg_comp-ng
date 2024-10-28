@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libfssimplewindow.a CMakeFiles/fssimplewindow.dir/macosx/fsmacosxwrappercpp.cpp.o CMakeFiles/fssimplewindow.dir/macosx/fsmacosxwrapperobjc.m.o CMakeFiles/fssimplewindow.dir/fssimplewindowcommon.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libfssimplewindow.a

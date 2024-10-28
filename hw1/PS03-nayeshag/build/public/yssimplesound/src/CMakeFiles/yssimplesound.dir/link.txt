@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libyssimplesound.a CMakeFiles/yssimplesound.dir/yssimplesound.cpp.o CMakeFiles/yssimplesound.dir/macosx/yssimplesound_macosx_cpp.cpp.o CMakeFiles/yssimplesound.dir/macosx/yssimplesound_macosx_objc.m.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libyssimplesound.a

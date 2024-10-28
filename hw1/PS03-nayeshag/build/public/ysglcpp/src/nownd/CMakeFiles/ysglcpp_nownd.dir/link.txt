@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libysglcpp_nownd.a CMakeFiles/ysglcpp_nownd.dir/ysglbuffermanager_nownd.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libysglcpp_nownd.a

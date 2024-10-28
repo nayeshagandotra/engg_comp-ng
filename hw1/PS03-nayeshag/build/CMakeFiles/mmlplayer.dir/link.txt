@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmmlplayer.a CMakeFiles/mmlplayer.dir/mmlplayer.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmmlplayer.a

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -mmacosx-version-min=10.9 -Wno-switch -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ysgl_makeh.dir/glsl_src/makeh.cpp.o -o ../../../exe/ysgl_makeh  ../../ysclass/src/libysclass.a

@@ -1,13 +1,15 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(ps3)
+project(ps5)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED on)
 
-add_library(fssimplewindow fssimplewindow.h fssimplewindowcpp.cpp)
-target_include_directories(fssimplewindow PUBLIC .)
+add_subdirectory(../public/src ${CMAKE_BINARY_DIR}/public)
 
+add_library(mmlplayer mmlplayer.h mmlplayer.cpp)
 
-add_executable(ps3-2 MACOSX_BUNDLE ps3-2.cpp)
-target_link_libraries(ps3-2 fssimplewindow)
+target_include_directories(mmlplayer PUBLIC .)
+
+add_executable(ps5 MACOSX_BUNDLE demo.cpp)
+target_link_libraries(ps5 fssimplewindow ysbitmapfont yssimplesound mmlplayer)

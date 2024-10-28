@@ -59,6 +59,16 @@
         "system_error": "cpp",
         "tuple": "cpp",
         "type_traits": "cpp",
-        "typeinfo": "cpp"
-    }
+        "typeinfo": "cpp",
+        "__tree": "cpp",
+        "condition_variable": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "queue": "cpp",
+        "unordered_set": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "stack": "cpp"
+    },
+    "cmake.sourceDirectory": "/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag"
 }

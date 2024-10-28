@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libystexturemanager_nownd.a CMakeFiles/ystexturemanager_nownd.dir/ystexturemanager_null.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libystexturemanager_nownd.a

@@ -1,0 +1,7 @@
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag/build/CMakeFiles/fssimplewindow.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag/build/CMakeFiles/ysglfontdata.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag/build/CMakeFiles/yssimplesound.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag/build/CMakeFiles/mmlplayer.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag/build/CMakeFiles/ps5-1.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag/build/CMakeFiles/edit_cache.dir
+/Users/nayeshagandotra/Desktop/PS01-nayeshag/hw1/PS03-nayeshag/build/CMakeFiles/rebuild_cache.dir

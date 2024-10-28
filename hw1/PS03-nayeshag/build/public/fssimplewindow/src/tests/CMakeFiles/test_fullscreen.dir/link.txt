@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_fullscreen.dir/fullscreen.cpp.o -o test_fullscreen.app/Contents/MacOS/test_fullscreen  ../libfssimplewindow.a -framework Cocoa -framework OpenGL

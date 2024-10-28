@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libgeblgl_gl2.a CMakeFiles/geblgl_gl2.dir/ysshellextgl_gl2.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libgeblgl_gl2.a
